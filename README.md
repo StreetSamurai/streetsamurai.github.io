@@ -1,3 +1,3 @@
 # Welcome to the StreetSamurai webpage
 
-###CURRENTLY UNDER CONSTRUCTION
+We are working on a new version of Goblin Camp at https://streetsamurai.github.io/goblin_camp
